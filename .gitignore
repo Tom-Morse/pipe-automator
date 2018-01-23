@@ -60,6 +60,7 @@ typings/
 
 # dotenv environment variables file
 .env
+.manifest
 
 # Mac OS system files
 .DS_Store
